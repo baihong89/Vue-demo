@@ -1,7 +1,7 @@
 {
-  "name": "mint-ui-starter",
+  "name": "shopping app",
   "description": "A Vue.js project",
-  "author": "yi.shyang@ele.me",
+  "author": "bai hong",
   "private": true,
   "scripts": {
     "devloc": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot ",
